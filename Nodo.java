@@ -1,5 +1,3 @@
-package proyectosmana6;
-
 public class Nodo {
     int clave;
     Nodo siguiente;
